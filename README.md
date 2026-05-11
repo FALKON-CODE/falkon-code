@@ -1,5 +1,5 @@
 # 💫 About Me:
-With over 4 years of experience in developing and maintaining mobile applications, I’m skilled in Java and Kotlin. My focus areas include creating user-friendly interfaces, optimizing code for performance, and seamless integration with web services. I’m passionate about continuous learning, staying up-to-date with the latest trends in Android development, and am always open to new opportunities to collaborate with dynamic teams.
+With over 5 years of experience in developing and maintaining mobile applications, I’m skilled in Java and Kotlin. My focus areas include creating user-friendly interfaces, optimizing code for performance, and seamless integration with web services. I’m passionate about continuous learning, staying up-to-date with the latest trends in Android development, and am always open to new opportunities to collaborate with dynamic teams.
 
 
 ## 🌐 Socials:
